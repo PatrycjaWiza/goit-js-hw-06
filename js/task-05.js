@@ -1,6 +1,3 @@
-/* <input type="text" id="name-input" placeholder="Please enter your name" />
-<h1>Hello, <span id="name-output">Anonymous</span>!</h1> */
-
 const inputValue = document.querySelector("#name-input");
 const outputValue = document.querySelector("#name-output");
 
